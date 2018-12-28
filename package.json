@@ -63,7 +63,7 @@
     "postcss-reporter": "^6.0.0",
     "postcss-sassy-import": "^1.2.3",
     "postcss-scss": "^1.0.4",
-    "postcss-url": "^7.3.1",
+    "postcss-url": "^8.0.0",
     "precss": "^3.1.2",
     "pumpkin.js": "^0.3.0",
     "run-sequence": "^2.2.1",
