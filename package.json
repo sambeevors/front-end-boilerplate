@@ -67,7 +67,7 @@
     "precss": "^3.1.2",
     "pumpkin.js": "^0.3.0",
     "run-sequence": "^2.2.1",
-    "tailwindcss": "^0.5.3",
+    "tailwindcss": "^0.7.3",
     "tailwindcss-alpha": "^0.1.2",
     "vinyl-buffer": "^1.0.0",
     "vinyl-named": "^1.1.0",
