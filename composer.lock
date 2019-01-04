@@ -606,16 +606,16 @@
         },
         {
             "name": "nesbot/carbon",
-            "version": "1.36.1",
+            "version": "1.36.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/briannesbitt/Carbon.git",
-                "reference": "63da8cdf89d7a5efe43aabc794365f6e7b7b8983"
+                "reference": "cd324b98bc30290f233dd0e75e6ce49f7ab2a6c9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/63da8cdf89d7a5efe43aabc794365f6e7b7b8983",
-                "reference": "63da8cdf89d7a5efe43aabc794365f6e7b7b8983",
+                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/cd324b98bc30290f233dd0e75e6ce49f7ab2a6c9",
+                "reference": "cd324b98bc30290f233dd0e75e6ce49f7ab2a6c9",
                 "shasum": ""
             },
             "require": {
@@ -660,7 +660,7 @@
                 "datetime",
                 "time"
             ],
-            "time": "2018-11-22T18:23:02+00:00"
+            "time": "2018-12-28T10:07:33+00:00"
         },
         {
             "name": "psr/container",
@@ -1478,16 +1478,16 @@
         },
         {
             "name": "tightenco/jigsaw",
-            "version": "v1.3.0",
+            "version": "v1.3.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tightenco/jigsaw.git",
-                "reference": "a45bc58f11e45ec1b774b5026bb5e512762a2cac"
+                "reference": "558bc712146aa1c1883a017681cc609e93594b87"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tightenco/jigsaw/zipball/a45bc58f11e45ec1b774b5026bb5e512762a2cac",
-                "reference": "a45bc58f11e45ec1b774b5026bb5e512762a2cac",
+                "url": "https://api.github.com/repos/tightenco/jigsaw/zipball/558bc712146aa1c1883a017681cc609e93594b87",
+                "reference": "558bc712146aa1c1883a017681cc609e93594b87",
                 "shasum": ""
             },
             "require": {
@@ -1537,7 +1537,7 @@
                 "site",
                 "static"
             ],
-            "time": "2018-12-21T14:18:45+00:00"
+            "time": "2019-01-03T14:07:41+00:00"
         }
     ],
     "packages-dev": [],
