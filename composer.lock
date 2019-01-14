@@ -1479,16 +1479,16 @@
         },
         {
             "name": "tightenco/jigsaw",
-            "version": "v1.3.3",
+            "version": "v1.3.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tightenco/jigsaw.git",
-                "reference": "9d477c70497c202cd211c5a5bd2ee2599dc359d9"
+                "reference": "1530b2ea20d837c0a00cbbdf1201ef959fd93645"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tightenco/jigsaw/zipball/9d477c70497c202cd211c5a5bd2ee2599dc359d9",
-                "reference": "9d477c70497c202cd211c5a5bd2ee2599dc359d9",
+                "url": "https://api.github.com/repos/tightenco/jigsaw/zipball/1530b2ea20d837c0a00cbbdf1201ef959fd93645",
+                "reference": "1530b2ea20d837c0a00cbbdf1201ef959fd93645",
                 "shasum": ""
             },
             "require": {
@@ -1538,7 +1538,7 @@
                 "site",
                 "static"
             ],
-            "time": "2019-01-09T21:36:45+00:00"
+            "time": "2019-01-13T13:00:29+00:00"
         }
     ],
     "packages-dev": [],
