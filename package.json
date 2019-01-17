@@ -62,7 +62,7 @@
     "postcss-nested": "^3.0.0",
     "postcss-reporter": "^6.0.1",
     "postcss-sassy-import": "^1.2.3",
-    "postcss-scss": "^1.0.4",
+    "postcss-scss": "^2.0.0",
     "postcss-url": "^8.0.0",
     "precss": "^4.0.0",
     "pumpkin.js": "^0.3.0",
