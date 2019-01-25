@@ -864,15 +864,15 @@ autoprefixer@^7.1.1, autoprefixer@^7.1.2:
     postcss "^6.0.17"
     postcss-value-parser "^3.2.3"
 
-autoprefixer@^9.3.1, autoprefixer@^9.4.2, autoprefixer@^9.4.4:
-  version "9.4.4"
-  resolved "https://registry.yarnpkg.com/autoprefixer/-/autoprefixer-9.4.4.tgz#40c42b335bdb22efe8cd80389ca82ffb5e32d68d"
+autoprefixer@^9.4.2, autoprefixer@^9.4.4, autoprefixer@^9.4.5:
+  version "9.4.6"
+  resolved "https://registry.yarnpkg.com/autoprefixer/-/autoprefixer-9.4.6.tgz#0ace275e33b37de16b09a5547dbfe73a98c1d446"
   dependencies:
-    browserslist "^4.3.7"
-    caniuse-lite "^1.0.30000926"
+    browserslist "^4.4.1"
+    caniuse-lite "^1.0.30000929"
     normalize-range "^0.1.2"
     num2fraction "^1.2.2"
-    postcss "^7.0.7"
+    postcss "^7.0.13"
     postcss-value-parser "^3.3.1"
 
 aws-sdk@^2.386.0:
@@ -1910,12 +1910,20 @@ browserslist@^2.0.0, browserslist@^2.11.3:
     caniuse-lite "^1.0.30000792"
     electron-to-chromium "^1.3.30"
 
-browserslist@^4.0.0, browserslist@^4.3.5, browserslist@^4.3.7:
+browserslist@^4.0.0, browserslist@^4.3.5:
   version "4.3.7"
   resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-4.3.7.tgz#f1de479a6466ea47a0a26dcc725e7504817e624a"
   dependencies:
     caniuse-lite "^1.0.30000925"
     electron-to-chromium "^1.3.96"
+    node-releases "^1.1.3"
+
+browserslist@^4.4.1:
+  version "4.4.1"
+  resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-4.4.1.tgz#42e828954b6b29a7a53e352277be429478a69062"
+  dependencies:
+    caniuse-lite "^1.0.30000929"
+    electron-to-chromium "^1.3.103"
     node-releases "^1.1.3"
 
 bs-recipes@1.3.4:
@@ -2117,9 +2125,9 @@ camel-case@3.0.x:
     no-case "^2.2.0"
     upper-case "^1.1.1"
 
-camelcase-css@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/camelcase-css/-/camelcase-css-1.0.1.tgz#157c4238265f5cf94a1dffde86446552cbf3f705"
+camelcase-css@^2.0.0:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/camelcase-css/-/camelcase-css-2.0.1.tgz#ee978f6947914cc30c6b44741b6ed1df7f043fd5"
 
 camelcase-keys@^2.0.0:
   version "2.1.0"
@@ -2174,9 +2182,13 @@ caniuse-api@^3.0.0:
     lodash.memoize "^4.1.2"
     lodash.uniq "^4.5.0"
 
-caniuse-lite@^1.0.0, caniuse-lite@^1.0.30000792, caniuse-lite@^1.0.30000805, caniuse-lite@^1.0.30000918, caniuse-lite@^1.0.30000925, caniuse-lite@^1.0.30000926:
+caniuse-lite@^1.0.0, caniuse-lite@^1.0.30000792, caniuse-lite@^1.0.30000805, caniuse-lite@^1.0.30000918, caniuse-lite@^1.0.30000925:
   version "1.0.30000927"
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30000927.tgz#114a9de4ff1e01f5790fe578ecd93421c7524665"
+
+caniuse-lite@^1.0.30000929:
+  version "1.0.30000930"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30000930.tgz#c238bab82bedb462bcbdc61d0334932dcc084d8a"
 
 capture-stack-trace@^1.0.0:
   version "1.0.0"
@@ -3595,6 +3607,10 @@ editor@~1.0.0:
 ee-first@1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/ee-first/-/ee-first-1.1.1.tgz#590c61156b0ae2f4f0255732a158b266bc56b21d"
+
+electron-to-chromium@^1.3.103:
+  version "1.3.107"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.107.tgz#9f30731b7554bef2c734e8effeaf70da23ebf42a"
 
 electron-to-chromium@^1.3.30:
   version "1.3.88"
@@ -9017,12 +9033,12 @@ postcss-inline-svg@^3.0.0:
     postcss "^6.0.1"
     postcss-value-parser "^3.2.3"
 
-postcss-js@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/postcss-js/-/postcss-js-1.0.1.tgz#ffaf29226e399ea74b5dce02cab1729d7addbc7b"
+postcss-js@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/postcss-js/-/postcss-js-2.0.0.tgz#f75b70470009eb37f998ee9bb516a2899c19ef8d"
   dependencies:
-    camelcase-css "^1.0.1"
-    postcss "^6.0.11"
+    camelcase-css "^2.0.0"
+    postcss "^7.0.0"
 
 postcss-lab-function@^2.0.1:
   version "2.0.1"
@@ -9134,7 +9150,7 @@ postcss-nested@^3.0.0:
     postcss "^6.0.14"
     postcss-selector-parser "^3.1.1"
 
-postcss-nested@^4.1.0:
+postcss-nested@^4.1.0, postcss-nested@^4.1.1:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/postcss-nested/-/postcss-nested-4.1.1.tgz#2074e6641583bf7151d951908d68fa95039fe340"
   dependencies:
@@ -9464,9 +9480,9 @@ postcss-selector-parser@^3.0.0, postcss-selector-parser@^3.1.0, postcss-selector
     indexes-of "^1.0.1"
     uniq "^1.0.1"
 
-postcss-selector-parser@^5.0.0-rc.3, postcss-selector-parser@^5.0.0-rc.4:
-  version "5.0.0-rc.4"
-  resolved "https://registry.yarnpkg.com/postcss-selector-parser/-/postcss-selector-parser-5.0.0-rc.4.tgz#ca5e77238bf152966378c13e91ad6d611568ea87"
+postcss-selector-parser@^5.0.0, postcss-selector-parser@^5.0.0-rc.3, postcss-selector-parser@^5.0.0-rc.4:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/postcss-selector-parser/-/postcss-selector-parser-5.0.0.tgz#249044356697b33b64f1a8f7c80922dddee7195c"
   dependencies:
     cssesc "^2.0.0"
     indexes-of "^1.0.1"
@@ -9536,13 +9552,13 @@ postcss@^6.0, postcss@^6.0.0, postcss@^6.0.1, postcss@^6.0.11, postcss@^6.0.14, 
     source-map "^0.6.1"
     supports-color "^5.4.0"
 
-postcss@^7.0.0, postcss@^7.0.1, postcss@^7.0.2, postcss@^7.0.5, postcss@^7.0.6, postcss@^7.0.7:
-  version "7.0.8"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.8.tgz#2a3c5f2bdd00240cd0d0901fd998347c93d36696"
+postcss@^7.0.0, postcss@^7.0.1, postcss@^7.0.11, postcss@^7.0.13, postcss@^7.0.2, postcss@^7.0.5, postcss@^7.0.6, postcss@^7.0.7:
+  version "7.0.14"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.14.tgz#4527ed6b1ca0d82c53ce5ec1a2041c2346bbd6e5"
   dependencies:
     chalk "^2.4.2"
     source-map "^0.6.1"
-    supports-color "^6.0.0"
+    supports-color "^6.1.0"
 
 precss@^4.0.0:
   version "4.0.0"
@@ -11357,9 +11373,9 @@ supports-color@^5.3.0, supports-color@^5.4.0, supports-color@^5.5.0:
   dependencies:
     has-flag "^3.0.0"
 
-supports-color@^6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-6.0.0.tgz#76cfe742cf1f41bb9b1c29ad03068c05b4c0e40a"
+supports-color@^6.1.0:
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-6.1.0.tgz#0764abc69c63d5ac842dd4867e8d025e880df8f3"
   dependencies:
     has-flag "^3.0.0"
 
@@ -11424,11 +11440,11 @@ tailwindcss-alpha@^0.1.4:
   dependencies:
     color "^3.0.0"
 
-tailwindcss@^0.7.3:
-  version "0.7.3"
-  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-0.7.3.tgz#7b58605dd7857507c4dbc6edaccab4c14d30c054"
+tailwindcss@^0.7.4:
+  version "0.7.4"
+  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-0.7.4.tgz#fb7926821d42eacdc12e6621a49d21f37a3ff9e9"
   dependencies:
-    autoprefixer "^9.3.1"
+    autoprefixer "^9.4.5"
     bytes "^3.0.0"
     chalk "^2.4.1"
     css.escape "^1.5.1"
@@ -11436,11 +11452,11 @@ tailwindcss@^0.7.3:
     lodash "^4.17.5"
     node-emoji "^1.8.1"
     perfectionist "^2.4.0"
-    postcss "^6.0.9"
+    postcss "^7.0.11"
     postcss-functions "^3.0.0"
-    postcss-js "^1.0.1"
-    postcss-nested "^3.0.0"
-    postcss-selector-parser "^3.1.1"
+    postcss-js "^2.0.0"
+    postcss-nested "^4.1.1"
+    postcss-selector-parser "^5.0.0"
     pretty-hrtime "^1.0.3"
     strip-comments "^1.0.2"
 
