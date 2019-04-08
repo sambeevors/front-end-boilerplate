@@ -9644,9 +9644,9 @@ pumpify@^1.3.3:
     inherits "^2.0.3"
     pump "^2.0.0"
 
-pumpkin.js@^0.3.0:
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/pumpkin.js/-/pumpkin.js-0.3.1.tgz#77b623141acb900819aa8f191747ba0db2bf372f"
+pumpkin.js@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/pumpkin.js/-/pumpkin.js-1.0.2.tgz#dfebaed83546c60a8df4f944c4fa207be7264bb5"
 
 punycode@1.3.2:
   version "1.3.2"
