@@ -48,7 +48,7 @@
     "gulp-util": "^3.0.7",
     "idlize": "^0.1.1",
     "imagesloaded": "^4.1.1",
-    "install": "^0.12.2",
+    "install": "^0.13.0",
     "lazysizes": "^4.1.7",
     "npm": "^6.4.1",
     "object-fit-images": "^3.2.4",
