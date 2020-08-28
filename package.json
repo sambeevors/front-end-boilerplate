@@ -73,7 +73,7 @@
     "vinyl-named": "^1.1.0",
     "vinyl-source-stream": "^2.0.0",
     "webpack": "^2.2.0",
-    "webpack-stream": "^5.2.1",
+    "webpack-stream": "^6.0.0",
     "yargs": "^13.2.2"
   }
 }
