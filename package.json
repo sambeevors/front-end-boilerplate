@@ -52,7 +52,7 @@
     "lazysizes": "^4.1.7",
     "npm": "^6.4.1",
     "object-fit-images": "^3.2.4",
-    "postcss": "^6.0.20",
+    "postcss": "^8.3.2",
     "postcss-automath": "^1.0.1",
     "postcss-browser-reporter": "^0.5.0",
     "postcss-cssnext": "^3.1.0",
